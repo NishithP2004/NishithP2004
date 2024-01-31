@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nishithp2004" target="blank"><img src="https://img.shields.io/twitter/follow/nishithp2004?logo=twitter&style=for-the-badge" alt="nishithp2004" /></a> </p>
 
-- 🔭 I’m currently working on [GPS Tracker](https://github.com/NishithP2004/GPS_Tracker)
+- 🔭 I’m currently working on [GPS Tracker](https://github.com/NishithP2004/GPS_Tracker), [Project X](https://projectx.nishithp.dev)
 
 - 🌱 I’m currently learning **Frameworks, App Dev, Docker**
 

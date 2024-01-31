@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks, App Dev, Docker**
 
-- 👨‍💻 All of my projects are available at [http://nishithp.tech/](http://nishithp.dev/)
+- 👨‍💻 All of my projects are available at [http://nishithp.dev/](http://nishithp.dev/)
 
 - 📫 How to reach me **hi@nishithp.dev**
 

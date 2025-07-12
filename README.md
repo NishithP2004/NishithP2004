@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nishithp2004" target="blank"><img src="https://img.shields.io/twitter/follow/nishithp2004?logo=twitter&style=for-the-badge" alt="nishithp2004" /></a> </p>
 
-- 🔭 I’m currently working on [GPS Tracker](https://github.com/NishithP2004/GPS_Tracker), [Project X](https://projectx.nishithp.dev)
+- 🔭 I’m currently working on **AI Agents**
 
 - 🌱 I’m currently learning **Frameworks, App Dev, Docker**
 
-- 👨‍💻 All of my projects are available at [http://nishithp.dev/](http://nishithp.dev/)
+- 👨‍💻 All of my projects are available at [http://nishithp.page/](http://nishithp.page/)
 
-- 📫 How to reach me **hi@nishithp.dev**
+- 📫 How to reach me **hi@nishithp.page**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

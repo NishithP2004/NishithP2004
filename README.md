@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishith P</h1>
-<h4 align="left">I’m a developer, researcher & tech enthusiast who loves building cool things with AI 🤖, Security 🔐, and Cloud ☁️.
+<p align="left">I’m a developer, researcher & tech enthusiast who loves building cool things with AI 🤖, Security 🔐, and Cloud ☁️.
 
 🌟 My journey started with coding competitions — proud Finalist @ Google Code-in 2019 and Winner @ Google Code to Learn 2019 — and has since grown into creating impactful projects around AI-powered security tools, scalable apps, and continual learning.
 
 ⚡ When I’m not deep-diving into code, you’ll find me exploring the latest Tech innovations 💡, geeking out on cybersecurity 🕵️‍♂️, or leading student communities 🎓.
 
-💻 Always excited to learn, build, and collaborate — let’s connect and make tech magic happen! 🚀</h4>
+💻 Always excited to learn, build, and collaborate — let’s connect and make tech magic happen! 🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishithp2004&label=Profile%20views&color=0e75b6&style=flat" alt="nishithp2004" /> </p>
 

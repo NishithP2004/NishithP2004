@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nishith P</h1>
-<h3 align="center">I'm a coder and developer with a passion for all things Google. Proud finalist of Google Code-in 2019 and winner of Google Code to Learn 2019. 🏆 When I'm not tinkering with code, you can find me admiring the latest innovations from @Google. Let's connect and geek out over all things tech! 💻👨‍💻</h3>
+<h4 align="left">I’m a developer, researcher & tech enthusiast who loves building cool things with AI 🤖, Security 🔐, and Cloud ☁️.
+
+🌟 My journey started with coding competitions — proud Finalist @ Google Code-in 2019 and Winner @ Google Code to Learn 2019 — and has since grown into creating impactful projects around AI-powered security tools, scalable apps, and continual learning.
+
+⚡ When I’m not deep-diving into code, you’ll find me exploring the latest Tech innovations 💡, geeking out on cybersecurity 🕵️‍♂️, or leading student communities 🎓.
+
+💻 Always excited to learn, build, and collaborate — let’s connect and make tech magic happen! 🚀</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishithp2004&label=Profile%20views&color=0e75b6&style=flat" alt="nishithp2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishithp2004" alt="nishithp2004" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nishithp2004" target="blank"><img src="https://img.shields.io/twitter/follow/nishithp2004?logo=twitter&style=for-the-badge" alt="nishithp2004" /></a> </p>
 
 - 🔭 I’m currently working on **AI Agents**
 
-- 🌱 I’m currently learning **Frameworks, App Dev, Docker**
+- 🌱 I’m currently learning **Generative AI, Frameworks, App Dev, Docker**
 
 - 👨‍💻 All of my projects are available at [http://nishithp.page/](http://nishithp.page/)
 
-- 📫 How to reach me **hi@nishithp.page**
+- 📫 How to reach me **me@nishithp.page**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
